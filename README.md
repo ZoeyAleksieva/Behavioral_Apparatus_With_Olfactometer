@@ -1,6 +1,6 @@
 # Behavioral_Apparatus_With_Olfactometer
 
-This is the research project I completed when I worked at [Zak Lab](https://www.zak-lab.org/) as an undergraduate student. 
+This is the research project I completed when I worked at [Zak Lab](https://www.zak-lab.org/) as an undergraduate student. I made a short video explaining the project and demonstrating the GUI, which you can watch [here](https://www.youtube.com/watch?v=kH7aX3ddSkc)
 
 ## Overview
 
@@ -65,3 +65,6 @@ A fully automated, custom-built behavioral apparatus designed to assess olfactor
   </tr>
 </table>
 
+## Recognition
+
+The development of this apparatus was recognized with the [Founders’ Award in Cellular and Molecular Neuroscience](https://lin.uic.edu/academics/awards/) which is "given to a neuroscience major who has completed an exceptional research project with a focus on cellular/molecular neuroscience and who is a Neuroscience major and has a GPA of 3.2 or higher".
