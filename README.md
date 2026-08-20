@@ -2,6 +2,10 @@
 
 This is the research project I completed when I worked at [Zak Lab](https://www.zak-lab.org/) as an undergraduate student. 
 
+## Overview
+
+A fully automated, custom-built behavioral apparatus designed to assess olfactory perception in mice. The system combines precise airflow control, an Arduino Mega2560, Raspberry Pi 5, custom hardware, advanced [lick detectors](https://github.com/AllenNeuralDynamics/harp.device.lickety-split), and a Python GUI to reliably generate odor mixtures of up to 16 odors, monitor behavioral responses, deliver rewards, and automatically log experimental data. The apparatus was developed to provide increased experimental rigor and reproducibility when studying subtle differences in olfactory perception.
+
 ## Diagram
 
 ![Apparatus Diagram](./assets/apparatus_diagram.png)
