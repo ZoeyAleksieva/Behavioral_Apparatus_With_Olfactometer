@@ -2,6 +2,10 @@
 
 This is the research project I completed when I worked at [Zak Lab](https://www.zak-lab.org/) as an undergraduate student. 
 
+## Diagram
+
+![Apparatus Diagram](./iassets/apparatus_diagram.png)
+
 ## GUI Screenshots
 
 <table>
