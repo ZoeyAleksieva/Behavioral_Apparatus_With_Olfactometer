@@ -4,7 +4,7 @@ This is the research project I completed when I worked at [Zak Lab](https://www.
 
 ## Diagram
 
-![Apparatus Diagram](./iassets/apparatus_diagram.png)
+![Apparatus Diagram](./assets/apparatus_diagram.png)
 
 ## GUI Screenshots
 
