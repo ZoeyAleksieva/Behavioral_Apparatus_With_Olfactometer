@@ -1,4 +1,4 @@
-# Behavioral_Apparatus_With_Olfactometer
+# Behavioral Apparatus With Custom Olfactometer
 
 This is the research project I completed when I worked at [Zak Lab](https://www.zak-lab.org/) as an undergraduate student. I made a short video explaining the project and demonstrating the GUI, which you can watch [here](https://www.youtube.com/watch?v=kH7aX3ddSkc)
 
